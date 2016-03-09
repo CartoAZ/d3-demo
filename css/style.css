@@ -1,5 +1,3 @@
-/*This is my CSS file! */
-/* left aligns column headers */
-.colHeader {
-    text-align: left;
+.container {
+    background-color: black;
 }
